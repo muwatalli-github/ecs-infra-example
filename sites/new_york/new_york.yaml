@@ -17,7 +17,7 @@ metadata:
   namespace: default
 spec:
   interval: 1m
-  url: https://github.com/muwatalli-github/ecs-infra-example.git
+  url: https://github.com/muwatalli-github/ecs-apps-example.git
   ref:
     branch: main
 ---
